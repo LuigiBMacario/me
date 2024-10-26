@@ -1,5 +1,12 @@
 ![MasterHead](https://github.com/LuigiBMacario/LuigiBMacario/blob/main/header.png?raw=true)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LuigiBMacario&show_icons=true&theme=algolia&include_all_commits=true&custom_title=Minhas+estatíticas+no+GitHub:&locale=pt-BR" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiBMacario&theme=algolia&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=6&custom_title=Linguagens+mais+utilizadas:" />
+</a><br><br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=LuigiBMacario&theme=darkhub&no-frame=true)](https://github.com/LuigiBMacario/github-profile-trophy)
 
 <h2>📍 Sobre Mim:</h2>
@@ -115,9 +122,6 @@ JavaScript               1 repo              ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜�
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/LuigiBMacario/LuigiBMacario/3ecd7f0c2bdf900f419873bf56345c5007c9f06c/github-contribution-grid-snake.svg" />
 </picture>
-
-[![Luigi Macário's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuigiBMacario&show_icons=true&theme=algolia&include_all_commits=true&custom_title=Minhas+Estatiticas+no+GitHub&locale=pt-BR&)](https://github.com/LuigiBMacario/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiBMacario&theme=algolia&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=6)](https://github.com/LuigiBMacario/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuigiBMacario)](https://git.io/streak-stats)
 
