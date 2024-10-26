@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/LuigiBMacario/LuigiBMacario/blob/main/header.png?raw=true)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LuigiBMacario&theme=darkhub&no-frame=true)](https://github.com/LuigiBMacario/github-profile-trophy)
 
 <h2>📍 Sobre Mim:</h2>
 
