@@ -51,8 +51,13 @@
 ><img style='cursor: default;' align='center' alt='Angular' src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white'>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-<h2>🐱 Meus dados no GitHub<h2>
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
+
+![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-2.4%20thousand%20linhas%20de%20c%C3%B3digo-blue)
+
+**🐱 Meus dados no GitHub** 
 
 > 📦 142.7 kB Usado no armazenamento do GitHub 
  > 
@@ -67,19 +72,16 @@
 **Eu sou diurno 🐤** 
 
 ```text
-🌞 Manhã                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Tarde                  14 commits          █████████████████████████   100.00 % 
-🌃 Noite                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Madrugada              0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Manhã                  0 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
+🌆 Tarde                  15 commits          ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+🌃 Noite                  0 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
+🌙 Madrugada              0 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
 ```
 
 
 📊 **Esta semana eu gastei meu tempo em** 
 
 ```text
-💬 Linguagens de programação: 
-Nenhuma atividade rastreada esta semana
-
 🔥 Editores: 
 Nenhuma atividade rastreada esta semana
 ```
@@ -87,10 +89,10 @@ Nenhuma atividade rastreada esta semana
 **Eu geralmente programo em CSS** 
 
 ```text
-CSS                      1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-HTML                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-C                        1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-JavaScript               1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+CSS                      1 repo              ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.00 % 
+HTML                     1 repo              ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.00 % 
+C                        1 repo              ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.00 % 
+JavaScript               1 repo              ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.00 % 
 ```
 
 
