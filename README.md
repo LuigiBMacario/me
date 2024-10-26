@@ -1,10 +1,10 @@
 ![MasterHead](https://github.com/LuigiBMacario/LuigiBMacario/blob/main/header.png?raw=true)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LuigiBMacario&show_icons=true&theme=algolia&include_all_commits=true&custom_title=Minhas+estatíticas+no+GitHub:&locale=pt-BR" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=LuigiBMacario&show_icons=true&theme=algolia&include_all_commits=true&custom_title=Minhas+estatíticas+no+GitHub:&locale=pt-BR" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiBMacario&theme=algolia&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=6&custom_title=Linguagens+mais+utilizadas:" />
+  <img height=168 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiBMacario&theme=algolia&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=6&custom_title=Linguagens+mais+utilizadas:" />
 </a><br><br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LuigiBMacario&theme=darkhub&no-frame=true)](https://github.com/LuigiBMacario/github-profile-trophy)
