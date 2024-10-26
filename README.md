@@ -1,60 +1,41 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
-**🐱 My GitHub Data** 
+**🐱 Meus dados no GitHub** 
 
-> 📦 142.7 kB Used in GitHub's Storage 
+> 📦 142.7 kB Usado no armazenamento do GitHub 
  > 
-> 🏆 4 Contributions in the Year 2024
+> 🏆 4 Contribuições no ano de 2024
  > 
-> 💼 Opted to Hire
+> 💼 Aberto para contratação
  > 
-> 📜 3 Public Repositories 
+> 📜 3 Repositórios Públicos 
  > 
-> 🔑 5 Private Repositories 
+> 🔑 5 Repositórios Privados 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                12 commits          █████████████████████████   100.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Saturday** 
+**Eu sou diurno 🐤** 
 
 ```text
-Monday                   3 commits           ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Tuesday                  1 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 3 commits           ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 5 commits           ██████████░░░░░░░░░░░░░░░   41.67 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Manhã                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Tarde                  12 commits          █████████████████████████   100.00 % 
+🌃 Noite                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Madrugada              0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **Esta semana eu gastei meu tempo em** 
 
 ```text
-🕑︎ Time Zone: America/Sao_Paulo
+💬 Linguagens de programação: 
+Nenhuma atividade rastreada esta semana
 
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
+🔥 Editores: 
+Nenhuma atividade rastreada esta semana
 ```
 
-**I Mostly Code in CSS** 
+**Eu geralmente programo em CSS** 
 
 ```text
 CSS                      1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
@@ -65,12 +46,8 @@ JavaScript               1 repo              ██████░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/LuigiBMacario/LuigiBMacario/main/assets/bar_graph.png)
-
-
- Last Updated on 26/10/2024 15:47:07 UTC
+ Last Updated on 26/10/2024 16:32:27 UTC
 <!--END_SECTION:waka-->
 
 [![MasterHead](https://github.com/LuigiBMacario/LuigiBMacario/header.png)](https://github.com/LuigiBMacario/LuigiBMacario)
