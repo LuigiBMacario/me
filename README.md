@@ -52,9 +52,9 @@ Este é meu espaço para compartilhar o que estou aprendendo e construir projeto
 
 📫 Vamos nos conectar: 
 
-```
-Sinta-se à vontade para explorar meus repositórios e acompanhar meu progresso. Qualquer coisa pode me mandar uma mensagem! 👇
-```
+<div style='border: 1px solid; border-color: #2F2F2F; border-radius: 3px; background-color: #2A2A2A; padding: 12px'>
+    <p>Sinta-se à vontade para explorar meus repositórios e acompanhar meu progresso. Qualquer coisa pode me mandar uma mensagem! 👇</p>
+</div><br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luigibmacario)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luigi-macário-60630b292/)
@@ -122,11 +122,15 @@ JavaScript               1 repo              ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜�
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuigiBMacario)](https://git.io/streak-stats)
 
 
-<h2>🎧 O que eu geralmente escuto:</h2>
-
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31xfk7jjff526bymiwv4p4qhqq24)](https://open.spotify.com/user/31xfk7jjff526bymiwv4p4qhqq24)
-
-<h2>🎮 Se você chegou até aqui, vamos jogar qualquer dia</h2>
+<div style='display:flex; gap: 20px'>
+    <div>
+        <h2>🎧 O que eu geralmente escuto:</h2>
+        <img alt='Ultímas músicas tocadas no Spotify' src='https://spotify-recently-played-readme.vercel.app/api?user=31xfk7jjff526bymiwv4p4qhqq24'>
+    </div>
+    <div>
+        <h2>🎮 Vamos jogar qualquer dia!</h2>
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/iamsamcee/)
 [![LoL](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)](https://www.op.gg/summoners/br/Samcee-SCAM)
+    </div>
+</div>
