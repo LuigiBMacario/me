@@ -58,11 +58,15 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
+
 **🐱 Meus dados no GitHub** 
 
 > 📦 142.7 kB Usado no armazenamento do GitHub 
  > 
-> 🏆 4 Contribuições no ano de 2024
+> 🏆 5 Contribuições no ano de 2024
  > 
 > 💼 Aberto para contratação
  > 
@@ -74,7 +78,7 @@
 
 ```text
 🌞 Manhã                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Tarde                  12 commits          █████████████████████████   100.00 % 
+🌆 Tarde                  14 commits          █████████████████████████   100.00 % 
 🌃 Noite                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 🌙 Madrugada              0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
