@@ -1,6 +1,6 @@
 permissions:
   contents: write
-name: Waka Readme
+name: Waka config
 
 on:
   schedule:

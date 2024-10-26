@@ -1,6 +1,6 @@
 permissions:
   contents: write
-name: generate animation
+name: generate snake
 
 on:
   # run automatically every 24 hours
