@@ -1,24 +1,64 @@
+<script>
+    const trophys = document.querySelector('.trophys');
+    const message = document.querySelector('.mobile-message');
+
+    function handleMessage(){
+        if (trophys.hasAttribute('hidden')){
+            message.removeAttribute('hidden');
+        }
+        else {
+            message.setAttribute('hidden', '');
+        }
+    }
+
+    window.addEventListener('resize', handleMessage);
+    handleMessage();
+</script>
+
+<style>
+    .sst-conteiner{
+        width: 846px;
+    }
+
+    .flex-conteiner{
+        display: flex;
+        flex-direction: column;
+        height: 170px;
+        width: 300px;
+        align-itens: left; 
+    }
+
+    .stats{
+        height: 85px;
+    }
+
+    .langs{
+        height: 85px;
+    }
+
+    @media (max-width: 1024px){
+        .sst-conteiner{
+            width: 100%;
+        }
+
+        .trophys{
+            visibility: hidden
+        }
+    }
+</style>
+
 ![MasterHead](https://github.com/LuigiBMacario/LuigiBMacario/blob/main/header.png?raw=true)
 
-<div style='width:1000px'>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width=380 align="center" src="https://github-readme-stats.vercel.app/api?username=LuigiBMacario&show_icons=true&theme=algolia&include_all_commits=true&custom_title=Minhas+estatíticas+no+GitHub:&locale=pt-BR&hide_border=true" />
-    </a>
-    <a href="https://github.com/anuraghazra/convoychat">
-        <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiBMacario&theme=algolia&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=6&custom_title=Linguagens+mais+utilizadas:&hide_border=true" />
-    </a>
-    <a href="https://git.io/streak-stats">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=LuigiBMacario&theme=algolia&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=100&card_height=50&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
-    </a>
-    <a href="https://git.io/streak-stats">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=LuigiBMacario&theme=algolia&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=100&card_height=50&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" />
-    </a>
-    <a href="https://git.io/streak-stats">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=LuigiBMacario&theme=algolia&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=100&card_height=50&hide_total_contributions=true&hide_current_streak=true&hide_border=true" alt="GitHub Streak" />
-    </a>
-    <a href="https://git.io/streak-stats">
-        <img align="center" src="https://github-profile-trophy.vercel.app/?username=LuigiBMacario&theme=algolia&no-frame=true" alt="GitHub Streak" />
-    </a>
+<div class='sst-conteiner'>
+    <div class='flex-conteiner'>
+        <img class='stats' align="center" src="https://github-readme-stats.vercel.app/api?username=LuigiBMacario&show_icons=true&theme=algolia&include_all_commits=true&custom_title=Minhas+estatíticas+no+GitHub:&locale=pt-BR&hide_border=true" />
+        <img class='langs' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiBMacario&theme=algolia&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=6&custom_title=Linguagens+mais+utilizadas:&hide_border=true" />
+    </div>
+    <img class='streak' align="center" src="https://github-readme-streak-stats.herokuapp.com?user=LuigiBMacario&theme=algolia&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=100&card_height=50&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
+    <img class='streak' align="center" src="https://github-readme-streak-stats.herokuapp.com?user=LuigiBMacario&theme=algolia&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=100&card_height=50&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" />
+    <img class='streak' align="center" src="https://github-readme-streak-stats.herokuapp.com?user=LuigiBMacario&theme=algolia&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=100&card_height=50&hide_total_contributions=true&hide_current_streak=true&hide_border=true" alt="GitHub Streak" />
+    <p class='mobile-message' hidden>Para ver os troféus, por favor acesse por um computador</p>
+    <img class='trophys' align="center" src="https://github-profile-trophy.vercel.app/?username=LuigiBMacario&theme=algolia&no-frame=true" alt="GitHub Streak" />
 </div>
 
 <h2>📍 Sobre Mim:</h2>
