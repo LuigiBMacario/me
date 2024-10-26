@@ -32,24 +32,24 @@
 
 <div>
     <p>Tecnologias e Banco de Dados:</p>
-    <img align='center' alt='HTML5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
-    <img align='center' alt='CSS3' src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'>
-    <img align='center' alt='MySQL' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
+    <img style='cursor: default;' align='center' alt='HTML5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
+    <img style='cursor: default;' align='center' alt='CSS3' src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'>
+    <img style='cursor: default;' align='center' alt='MySQL' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
     <br><br>
     <p>Backend:</p>
-    <img align='center' alt='Python' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'>
-    <img align='center' alt='C' src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'>
-    <img align='center' alt='php' src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'>
-    <img align='center' alt='django' src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white'>
+    <img style='cursor: default;' align='center' alt='Python' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'>
+    <img style='cursor: default;' align='center' alt='C' src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'>
+    <img style='cursor: default;' align='center' alt='php' src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'>
+    <img style='cursor: default;' align='center' alt='django' src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white'>
     <br><br>
     <p>Frontend:</p>
-    <img align='center' alt='JAVASCRIPT' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
-    <img align='center' alt='Wordpress' src='https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white'>
+    <img style='cursor: default;' style='cursor: default;' align='center' alt='JAVASCRIPT' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
+    <img style='cursor: default;' align='center' alt='Wordpress' src='https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white'>
     <br><br>
     <p>Estou aprendendo:</p>
-    <img align='center' alt='Unity' src='https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white'>
-    <img align='center' alt='React' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
-    <img align='center' alt='Angular' src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white'>
+    <img style='cursor: default;' align='center' alt='Unity' src='https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white'>
+    <img style='cursor: default;' align='center' alt='React' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
+    <img style='cursor: default;' align='center' alt='Angular' src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white'>
     <br><br>
 </div>
 
@@ -105,16 +105,23 @@ JavaScript               1 repo              ██████░░░░░�
 <!--END_SECTION:waka-->
 
 <h2>Comeram os meus commits!!! 🐍</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ![snake gif](https://github.com/LuigiBMacario/LuigiBMacario/blob/output/github-contribution-grid-snake.gif)
 
-[![Luigi Macário's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuigiBMacario&show_icons=true&theme=algolia)](https://github.com/LuigiBMacario/github-readme-stats)
+[![Luigi Macário's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuigiBMacario&show_icons=true&theme=algolia&include_all_commits=true&custom_title=Minhas+Estatiticas+no+GitHub&locale=pt-BR&)](https://github.com/LuigiBMacario/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiBMacario&theme=algolia&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=6)](https://github.com/LuigiBMacario/github-readme-stats)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuigiBMacario)](https://git.io/streak-stats)
 
 
 <h2>🎧 O que eu geralmente escuto:</h2>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31xfk7jjff526bymiwv4p4qhqq24)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31xfk7jjff526bymiwv4p4qhqq24)](https://open.spotify.com/user/31xfk7jjff526bymiwv4p4qhqq24)
 
 <h2>🎮 Se você chegou até aqui, vamos jogar qualquer dia</h2>
 
