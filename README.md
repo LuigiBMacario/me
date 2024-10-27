@@ -63,6 +63,7 @@ Este é meu espaço para compartilhar o que estou aprendendo e construir projeto
 ><img style='cursor: default;' align='center' alt='Unity' src='https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white'>
 ><img style='cursor: default;' align='center' alt='React' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
 ><img style='cursor: default;' align='center' alt='Angular' src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white'>
+><img style='cursor: default;' align='center' alt='Angular' src='https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white'>
 
 📫 Vamos nos conectar: 
 
