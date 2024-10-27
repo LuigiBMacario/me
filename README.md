@@ -1,18 +1,20 @@
 ![MasterHead](https://github.com/LuigiBMacario/LuigiBMacario/blob/main/header.png?raw=true)
 
-<div>
-    <div style='height: 200px;display: flex;'>
-        <div style='display: flex; flex-direction: column; height: 170px;'>
-            <img style='height: 85px' class='stats' align="center" src="https://github-readme-stats.vercel.app/api?username=LuigiBMacario&show_icons=true&theme=algolia&include_all_commits=true&custom_title=Minhas+estatíticas+no+GitHub:&locale=pt-BR&hide_border=true" />
-            <img style='height: 112px' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiBMacario&theme=algolia&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=6&custom_title=Linguagens+mais+utilizadas:&hide_border=true" />
-        </div>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=LuigiBMacario&theme=algolia&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=100&card_height=50&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=LuigiBMacario&theme=algolia&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=100&card_height=50&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" />
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=LuigiBMacario&theme=algolia&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=100&card_height=50&hide_total_contributions=true&hide_current_streak=true&hide_border=true" alt="GitHub Streak" />
-    </div>
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=LuigiBMacario&theme=algolia&no-frame=true" alt="GitHub Streak" />
-</div>
-
+<div class="tg-wrap"><table><tbody>
+  <tr>
+    <td colspan="2"><img style='height: 85px' class='stats' align="center" src="https://github-readme-stats.vercel.app/api?username=LuigiBMacario&show_icons=true&theme=algolia&include_all_commits=true&custom_title=Minhas+estatíticas+no+GitHub:&locale=pt-BR&hide_border=true" /></td>
+    <td rowspan="2"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=LuigiBMacario&theme=algolia&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=100&card_height=50&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></td>
+    <td rowspan="2"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=LuigiBMacario&theme=algolia&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=100&card_height=50&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></td>
+    <td rowspan="2"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=LuigiBMacario&theme=algolia&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=100&card_height=50&hide_total_contributions=true&hide_current_streak=true&hide_border=true" alt="GitHub Streak" /></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img style='height: 112px' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiBMacario&theme=algolia&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=6&custom_title=Linguagens+mais+utilizadas:&hide_border=true" /></td>
+  </tr>
+  <tr>
+    <td colspan="5"><img align="center" src="https://github-profile-trophy.vercel.app/?username=LuigiBMacario&theme=algolia&no-frame=true" alt="GitHub Streak" /></td>
+  </tr>
+</tbody>
+</table></div>
 
 <h2>📍 Sobre Mim:</h2>
 
